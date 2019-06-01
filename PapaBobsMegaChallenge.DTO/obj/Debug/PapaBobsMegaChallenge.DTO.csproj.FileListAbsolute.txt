@@ -1,0 +1,6 @@
+C:\Users\sZRAMEK\source\repos\PapaBobsMegaChallenge\PapaBobsMegaChallenge.DTO\obj\Debug\PapaBobsMegaChallenge.DTO.csprojAssemblyReference.cache
+C:\Users\sZRAMEK\source\repos\PapaBobsMegaChallenge\PapaBobsMegaChallenge.DTO\obj\Debug\PapaBobsMegaChallenge.DTO.csproj.CoreCompileInputs.cache
+C:\Users\sZRAMEK\source\repos\PapaBobsMegaChallenge\PapaBobsMegaChallenge.DTO\bin\Debug\PapaBobsMegaChallenge.DTO.dll
+C:\Users\sZRAMEK\source\repos\PapaBobsMegaChallenge\PapaBobsMegaChallenge.DTO\bin\Debug\PapaBobsMegaChallenge.DTO.pdb
+C:\Users\sZRAMEK\source\repos\PapaBobsMegaChallenge\PapaBobsMegaChallenge.DTO\obj\Debug\PapaBobsMegaChallenge.DTO.dll
+C:\Users\sZRAMEK\source\repos\PapaBobsMegaChallenge\PapaBobsMegaChallenge.DTO\obj\Debug\PapaBobsMegaChallenge.DTO.pdb

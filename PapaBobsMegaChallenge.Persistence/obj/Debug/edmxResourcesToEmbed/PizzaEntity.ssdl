@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Database1Model.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Orders">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="CrustId" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="SizeId" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="Toppings" Type="varchar(max)" />
+    <Property Name="Name" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Address" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Zip" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Phone" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Payment" Type="int" Nullable="false" />
+    <Property Name="Finished" Type="bit" Nullable="false" />
+  </EntityType>
+  <EntityType Name="PizzaCrusts">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="Description" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Price" Type="float" Nullable="false" />
+  </EntityType>
+  <EntityType Name="PizzaSizes">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="Description" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Size" Type="float" Nullable="false" />
+    <Property Name="Price" Type="float" Nullable="false" />
+  </EntityType>
+  <EntityType Name="PizzaToppings">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="Description" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Prize" Type="float" Nullable="false" />
+  </EntityType>
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'C:\USERS\SZRAMEK\SOURCE\REPOS\PAPABOBSMEGACHALLENGE\PAPABOBSMEGACHALLENGE\APP_DATA\DATABASE1.MDF.dbo.View' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="View">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="Size" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Crust" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Toppings" Type="varchar(max)" />
+  </EntityType>
+  <EntityContainer Name="Database1ModelStoreContainer">
+    <EntitySet Name="Orders" EntityType="Self.Orders" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="PizzaCrusts" EntityType="Self.PizzaCrusts" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="PizzaSizes" EntityType="Self.PizzaSizes" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="PizzaToppings" EntityType="Self.PizzaToppings" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="View" EntityType="Self.View" store:Type="Views" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [View].[Id] AS [Id], 
+    [View].[Size] AS [Size], 
+    [View].[Crust] AS [Crust], 
+    [View].[Toppings] AS [Toppings]
+    FROM [dbo].[View] AS [View]</DefiningQuery>
+    </EntitySet>
+  </EntityContainer>
+</Schema>

@@ -1,0 +1,15 @@
+C:\Users\sZRAMEK\source\repos\PapaBobsMegaChallenge\PapaBobsMegaChallenge.Persistence\obj\Debug\PapaBobsMegaChallenge.Persistence.csprojAssemblyReference.cache
+C:\Users\sZRAMEK\source\repos\PapaBobsMegaChallenge\PapaBobsMegaChallenge.Persistence\obj\Debug\PapaBobsMegaChallenge.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\sZRAMEK\source\repos\PapaBobsMegaChallenge\PapaBobsMegaChallenge.Persistence\bin\Debug\PapaBobsMegaChallenge.Persistence.dll.config
+C:\Users\sZRAMEK\source\repos\PapaBobsMegaChallenge\PapaBobsMegaChallenge.Persistence\bin\Debug\PapaBobsMegaChallenge.Persistence.dll
+C:\Users\sZRAMEK\source\repos\PapaBobsMegaChallenge\PapaBobsMegaChallenge.Persistence\bin\Debug\PapaBobsMegaChallenge.Persistence.pdb
+C:\Users\sZRAMEK\source\repos\PapaBobsMegaChallenge\PapaBobsMegaChallenge.Persistence\bin\Debug\EntityFramework.dll
+C:\Users\sZRAMEK\source\repos\PapaBobsMegaChallenge\PapaBobsMegaChallenge.Persistence\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sZRAMEK\source\repos\PapaBobsMegaChallenge\PapaBobsMegaChallenge.Persistence\bin\Debug\PapaBobsMegaChallenge.DTO.dll
+C:\Users\sZRAMEK\source\repos\PapaBobsMegaChallenge\PapaBobsMegaChallenge.Persistence\bin\Debug\PapaBobsMegaChallenge.DTO.pdb
+C:\Users\sZRAMEK\source\repos\PapaBobsMegaChallenge\PapaBobsMegaChallenge.Persistence\bin\Debug\EntityFramework.xml
+C:\Users\sZRAMEK\source\repos\PapaBobsMegaChallenge\PapaBobsMegaChallenge.Persistence\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sZRAMEK\source\repos\PapaBobsMegaChallenge\PapaBobsMegaChallenge.Persistence\obj\Debug\PapaBobsMegaChallenge.Persistence.csproj.CopyComplete
+C:\Users\sZRAMEK\source\repos\PapaBobsMegaChallenge\PapaBobsMegaChallenge.Persistence\obj\Debug\PapaBobsMegaChallenge.Persistence.dll
+C:\Users\sZRAMEK\source\repos\PapaBobsMegaChallenge\PapaBobsMegaChallenge.Persistence\obj\Debug\PapaBobsMegaChallenge.Persistence.pdb
+C:\Users\sZRAMEK\source\repos\PapaBobsMegaChallenge\PapaBobsMegaChallenge.Persistence\bin\Debug\Microsoft.AspNet.EntityDataSource.dll

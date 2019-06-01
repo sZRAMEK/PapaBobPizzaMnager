@@ -1,0 +1,14 @@
+C:\Users\sZRAMEK\source\repos\PapaBobsMegaChallenge\PapaBobsMegaChallenge.Domain\obj\Debug\PapaBobsMegaChallenge.Domain.csproj.CoreCompileInputs.cache
+C:\Users\sZRAMEK\source\repos\PapaBobsMegaChallenge\PapaBobsMegaChallenge.Domain\bin\Debug\PapaBobsMegaChallenge.Domain.dll
+C:\Users\sZRAMEK\source\repos\PapaBobsMegaChallenge\PapaBobsMegaChallenge.Domain\bin\Debug\PapaBobsMegaChallenge.Domain.pdb
+C:\Users\sZRAMEK\source\repos\PapaBobsMegaChallenge\PapaBobsMegaChallenge.Domain\bin\Debug\PapaBobsMegaChallenge.DTO.dll
+C:\Users\sZRAMEK\source\repos\PapaBobsMegaChallenge\PapaBobsMegaChallenge.Domain\bin\Debug\PapaBobsMegaChallenge.Persistence.dll
+C:\Users\sZRAMEK\source\repos\PapaBobsMegaChallenge\PapaBobsMegaChallenge.Domain\bin\Debug\EntityFramework.dll
+C:\Users\sZRAMEK\source\repos\PapaBobsMegaChallenge\PapaBobsMegaChallenge.Domain\bin\Debug\PapaBobsMegaChallenge.DTO.pdb
+C:\Users\sZRAMEK\source\repos\PapaBobsMegaChallenge\PapaBobsMegaChallenge.Domain\bin\Debug\PapaBobsMegaChallenge.Persistence.pdb
+C:\Users\sZRAMEK\source\repos\PapaBobsMegaChallenge\PapaBobsMegaChallenge.Domain\bin\Debug\PapaBobsMegaChallenge.Persistence.dll.config
+C:\Users\sZRAMEK\source\repos\PapaBobsMegaChallenge\PapaBobsMegaChallenge.Domain\bin\Debug\EntityFramework.xml
+C:\Users\sZRAMEK\source\repos\PapaBobsMegaChallenge\PapaBobsMegaChallenge.Domain\obj\Debug\PapaBobsMegaChallenge.Domain.csprojAssemblyReference.cache
+C:\Users\sZRAMEK\source\repos\PapaBobsMegaChallenge\PapaBobsMegaChallenge.Domain\obj\Debug\PapaBobsMegaChallenge.Domain.csproj.CopyComplete
+C:\Users\sZRAMEK\source\repos\PapaBobsMegaChallenge\PapaBobsMegaChallenge.Domain\obj\Debug\PapaBobsMegaChallenge.Domain.dll
+C:\Users\sZRAMEK\source\repos\PapaBobsMegaChallenge\PapaBobsMegaChallenge.Domain\obj\Debug\PapaBobsMegaChallenge.Domain.pdb
